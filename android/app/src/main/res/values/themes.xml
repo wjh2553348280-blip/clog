@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 界面完全由 Compose 绘制；窗口背景用纸色，避免启动瞬间白屏闪烁 -->
+    <style name="Theme.Clog" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#F6F3EC</item>
+        <!-- Android 12+ 系统启动画面：第一帧只放浅色主题全屏色，不显示图标 -->
+        <item name="android:windowSplashScreenBackground">#F6F3EC</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+    </style>
+</resources>

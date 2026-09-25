@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 开屏用：花瓶 + 花茎（透明底，花朵单独一层用于绽放动画） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:strokeColor="#35312B"
+        android:strokeWidth="3.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M43,56 C40,72 46,77 41,87 L67,87 C62,77 68,72 65,56" />
+    <path
+        android:strokeColor="#7C8B6B"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M50,56 C46,48 44,42 46,34" />
+    <path
+        android:strokeColor="#7C8B6B"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,56 C54,46 56,40 54,32" />
+    <path
+        android:strokeColor="#7C8B6B"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M58,56 C62,48 64,44 61,36" />
+</vector>

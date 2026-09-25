@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# ===== server (Python/FastAPI) =====
+server/venv/
+__pycache__/
+*.pyc
+server/clog.db
+server/uploads/
+server/.env
+
+# ===== android (Gradle/Android Studio) =====
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/.kotlin/
+android/captures/
+android/*.iml
+*.apk

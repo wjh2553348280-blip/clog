@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深夜书房：系统启动画面也用深色全屏色，第一帧不闪白 -->
+    <style name="Theme.Clog" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#26231F</item>
+        <item name="android:windowSplashScreenBackground">#26231F</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+    </style>
+</resources>

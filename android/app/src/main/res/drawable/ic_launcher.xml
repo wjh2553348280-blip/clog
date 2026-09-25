@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- clog 图标：米白底 + 墨色线条花瓶 + 鼠尾草绿花茎 + 赤陶色的花 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 纸底 -->
+    <path
+        android:fillColor="#F6F3EC"
+        android:pathData="M0,0 h108 v108 h-108 z" />
+    <!-- 花瓶（墨色线条） -->
+    <path
+        android:strokeColor="#35312B"
+        android:strokeWidth="3.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M43,56 C40,72 46,77 41,87 L67,87 C62,77 68,72 65,56" />
+    <!-- 花茎（鼠尾草绿） -->
+    <path
+        android:strokeColor="#7C8B6B"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M50,56 C46,48 44,42 46,34" />
+    <path
+        android:strokeColor="#7C8B6B"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,56 C54,46 56,40 54,32" />
+    <path
+        android:strokeColor="#7C8B6B"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M58,56 C62,48 64,44 61,36" />
+    <!-- 主花：花心 + 五片花瓣（赤陶色） -->
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M50.8,32 a3.2,3.2 0 1 0 6.4,0 a3.2,3.2 0 1 0 -6.4,0 z" />
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M58,32 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 z" />
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M52.5,24.4 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 z" />
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M43.5,27.3 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 z" />
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M43.5,36.7 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 z" />
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M52.5,39.6 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 z" />
+    <!-- 两朵小花苞 -->
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M42.5,34 a3.5,3.5 0 1 0 7,0 a3.5,3.5 0 1 0 -7,0 z" />
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M58,36 a3,3 0 1 0 6,0 a3,3 0 1 0 -6,0 z" />
+</vector>
